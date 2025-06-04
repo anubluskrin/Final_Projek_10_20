@@ -1,0 +1,8 @@
+Tanggal: 01-06-2025 10:47:23
+Jumlah kendaraan: 2
+Pendapatan: Rp 0
+--------------------------
+Tanggal: 04-06-2025 10:09:55
+Jumlah kendaraan: 5
+Pendapatan: Rp 2000
+--------------------------
